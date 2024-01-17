@@ -1,7 +1,6 @@
 # moolax_app
 
-A new Flutter project.
-
+it is a simple app to show how to keep core business logic separate from the UI, database, network and third-party packages using provider statemanagement
 ## Getting Started
 
 This project is a starting point for a Flutter application.
